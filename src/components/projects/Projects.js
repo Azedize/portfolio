@@ -60,8 +60,8 @@ const Projects = () => {
           title="E-commerce Website"
           des=" j'ai utilisé Laravel pour développer un site e-commerce complet, offrant aux utilisateurs une plateforme robuste et sécurisée pour acheter et vendre des produits en ligne. En utilisant les fonctionnalités avancées de Laravel telles que l'authentification, les migrations de base de données et le routage,"
           src={shop}
-          link={'https://azedize.github.io'}
-          link1={'https://github.com/Azedize'}
+          link={'http://shop-ch.000.pe/'}
+          link1={'http://shop-ch.000.pe/'}
 
         />
       </div>

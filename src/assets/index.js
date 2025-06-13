@@ -1,5 +1,5 @@
 import logo from "./images/logo1.jpg";
-import bannerImg from "./images/bannerImg.png";
+import bannerImg from "./images/potfolio.png";
 import homme from "./images/projects/AS-Homme.png";
 import calc from "./images/projects/Calculatrice.png";
 import p1 from "./images/projects/P1.png";
